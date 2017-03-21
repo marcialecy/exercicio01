@@ -2,5 +2,6 @@
 {
     public class Pessoa
     {
+        public int MyProperty { get; set; }
     }
 }
