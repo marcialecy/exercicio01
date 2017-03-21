@@ -2,6 +2,6 @@
 {
     public class Pessoa
     {
-        public int MyProperty { get; set; }
+        public int Nome { get; set; }
     }
 }
