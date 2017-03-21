@@ -1,6 +1,6 @@
 ﻿namespace Exercicio01
 {
-    class Pessoa
+    public class Pessoa
     {
     }
 }
